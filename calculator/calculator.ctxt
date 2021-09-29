@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=calculator
+comment1.params=Qa\ Qb\ Qc
+comment1.target=double\ quadraticplus(int,\ int,\ int)
+comment2.params=Qa\ Qb\ Qc
+comment2.target=double\ quadraticminus(int,\ int,\ int)
+comment3.params=Qa\ Qb\ Qc
+comment3.target=void\ displayquadratic(int,\ int,\ int)
+numComments=4
